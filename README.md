@@ -1,3 +1,5 @@
+This is a fork of Nutshell by a noob.
+
 # NutShell (果壳)
 
 NutShell is a processor developed by the OSCPU (Open Source Chip Project by University) team.
